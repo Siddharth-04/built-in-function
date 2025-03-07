@@ -15,3 +15,10 @@ class TimeZones{
 
     }
 }
+/*
+    java TimeZones.java
+    Indian Standard Time : 2025-03-07T15:28:06.759178600+05:30[Asia/Kolkata]
+    GMT Time : 2025-03-07T09:58:06.759178600Z[GMT]
+    Pacific Time : 2025-03-07T01:58:06.761175300-08:00[America/Los_Angeles]
+
+*/
